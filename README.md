@@ -2,4 +2,4 @@
 This is my first guided project in Data Analytics using SQL to apply my knowledge solving real-world problems.
 
 <p align='center'>
-<img src ='https://github.com/LukeTritsis13/NETFLIX_Project_SQL/blob/main/netflix_logo_2.jpg',width='550'>
+<img src ='https://github.com/LukeTritsis13/NETFLIX_Project_SQL/blob/main/Netflix_Logo1.jpg',width='550'>
